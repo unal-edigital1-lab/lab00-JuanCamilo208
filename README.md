@@ -3,7 +3,7 @@ laboratorio 01 introducción a HDL
 
 Juan Camilo Eraso Sánchez
 
-Entregables
+# Entregables
 
 Una vez clone el repositorio y lea la anterior guia, realice lo siguiente:
 
