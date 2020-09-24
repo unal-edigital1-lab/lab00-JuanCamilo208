@@ -16,11 +16,11 @@ Una vez clonado el repocitorio, se identifico cada uno de los componentes del ci
 
 Para el archivo sum1bcc.v se realizo lo mismo, el cual cuenta con un elemento de almacenamiento a partir de un reg de 2 bits.
 
-https://raw.githubusercontent.com/unal-edigital1-lab/lab00-JuanCamilo208/master/Reg2bits.png
+![conex](https://raw.githubusercontent.com/unal-edigital1-lab/lab00-JuanCamilo208/master/Reg2bits.png)
 
 -Analice la simulación de cada uno de los archivos y compruebe que el sumador funciona correctamente.
 
-https://raw.githubusercontent.com/unal-edigital1-lab/lab00-JuanCamilo208/master/Simulacion.png
+![conex](https://raw.githubusercontent.com/unal-edigital1-lab/lab00-JuanCamilo208/master/Simulacion.png)
 
 -Cree el nuevo proyecto HDL para el sumador de 4 bit, onde el top sea sum4bcc.v e instancie el sumador de 1 bit sum1bcc.v
 
