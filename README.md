@@ -20,6 +20,8 @@ https://raw.githubusercontent.com/unal-edigital1-lab/lab00-JuanCamilo208/master/
 
 -Analice la simulación de cada uno de los archivos y compruebe que el sumador funciona correctamente.
 
+https://raw.githubusercontent.com/unal-edigital1-lab/lab00-JuanCamilo208/master/Simulacion.png
+
 -Cree el nuevo proyecto HDL para el sumador de 4 bit, onde el top sea sum4bcc.v e instancie el sumador de 1 bit sum1bcc.v
 
 -Creer el archivo testbench.v
