@@ -13,7 +13,6 @@ Una vez clonado el repocitorio, se identifico cada uno de los componentes del ci
 
 https://raw.githubusercontent.com/unal-edigital1-lab/lab00-JuanCamilo208/master/sum1bit.png
 
-https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png
 
 Para el archivo sum1bcc.v se realizo lo mismo, el cual cuenta con un elemento de almacenamiento a partir de un reg de 2 bits.
 
